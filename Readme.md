@@ -17,5 +17,6 @@
 - GCode file
 
 ### Follow Me
+- http://www.thingiverse.com/uretgec/about
 - https://www.myminifactory.com/users/uretgec
 - http://www.twitter.com/uretgec
